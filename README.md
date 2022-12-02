@@ -1,0 +1,3 @@
+👀 Learning how to code since 2010 ...
+
+🌱 I’m currently learning [elm](https://elm-lang.org/)
